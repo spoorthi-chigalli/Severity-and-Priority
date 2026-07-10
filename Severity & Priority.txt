@@ -1,0 +1,72 @@
+Severity
+--------------------------------
+I. Blocker Defect
+
+   1. In GitHub application if user click on a repository it will show 404 file not found page
+   2. Application crashes after download
+   3. In Filpkart application when user click on login button loading symbol/button will be displayed
+   4. In food delivery application when user click on payment blank page is displayed
+   5. In gmail application add account button is disabled / not visible
+   6. In food delivery application add to cart button is disabled
+
+II. Critical Defect
+
+   1. In food delivery application when user click on cancle button in a payment page in user bank account the amount is credited
+   2. In shopping application user is unable to search / search bar is disabled
+   3. Password reset sends the new password to the wrong email address
+   4. In shopping application customer places an order, but the order details are not saved in the database
+   5. In any authorised application it is taking wrong OTP and logging into an application
+   6. In instagram application if user uploads a story it is geting posted
+
+III. Major Defect
+
+   1. In instagram application user cannot upload a profile photo
+   2. In the job portal it is mandatory to upload pdf but it is taking imgs in upload resume section
+   3. After payment debited msg is not comming
+   4. In shoppimg application search functionality is showing different result
+   5. After appling to a application for a job the successfully applied msg is not showing
+   6. After purchasing the product the online receipt is not generated
+
+IV. Minor Defect
+
+   1. Spelling mistake on the login page
+   2. Button text is not center-aligned
+   3. Extra spaces are displayed between words in a message
+   4. Incorrect font size
+   5. Logo is slightly misaligned on the home page
+   6. Tooltip appears on the name 
+
+======================================================================================
+Priority
+--------------------------
+I. High/P1
+
+  1. Login button is not working
+  2. Payment cannot be completed during checkout
+  3. OTP is not received during user registration
+  4. user A does the payment to user B but payment is done to user Z
+  5. user cannot add product to shopping cart
+  6. user cannot submit his/her signature while applying the application
+
+II. Medium/P2
+
+  1. Profile picture upload is not working, but users can update other profile details
+  2. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
