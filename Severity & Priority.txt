@@ -4,27 +4,27 @@ I. Blocker Defect
 
    1. In GitHub application if user click on a repository it will show 404 file not found page
    2. Application crashes after download
-   3. In Filpkart application when user click on login button loading symbol/button will be displayed
+   3. In Flip cart application when user click on login button loading symbol/button will be displayed
    4. In food delivery application when user click on payment blank page is displayed
-   5. In gmail application add account button is disabled / not visible
+   5. In Gmail application add account button is disabled / not visible
    6. In food delivery application add to cart button is disabled
 
 II. Critical Defect
 
-   1. In food delivery application when user click on cancle button in a payment page in user bank account the amount is credited
+   1. In food delivery application when user click on cancel button in a payment page in user bank account the amount is credited
    2. In shopping application user is unable to search / search bar is disabled
    3. Password reset sends the new password to the wrong email address
    4. In shopping application customer places an order, but the order details are not saved in the database
    5. In any authorised application it is taking wrong OTP and logging into an application
-   6. In instagram application if user uploads a story it is geting posted
+   6. In Instagram application if user uploads a story it is getting posted
 
 III. Major Defect
 
-   1. In instagram application user cannot upload a profile photo
+   1. In Instagram application user cannot upload a profile photo
    2. In the job portal it is mandatory to upload pdf but it is taking imgs in upload resume section
-   3. After payment debited msg is not comming
-   4. In shoppimg application search functionality is showing different result
-   5. After appling to a application for a job the successfully applied msg is not showing
+   3. After payment debited msg is not coming
+   4. In shopping application search functionality is showing different result
+   5. After Appling to a application for a job the successfully applied msg is not showing
    6. After purchasing the product the online receipt is not generated
 
 IV. Minor Defect
@@ -51,7 +51,62 @@ I. High/P1
 II. Medium/P2
 
   1. Profile picture upload is not working, but users can update other profile details
-  2. 
+  2. In the job portal it is mandatory to upload pdf but user can upload doc file
+  3. User cannot filter products by price but search works correctly
+  4. Password strength indicator is not displayed while creating a password. 
+ *5. In Cognizant careers portal Email notification is not sent after successfully applying for job
+ *6. In LinkedIn application while searching for jobs experience filter is not working properly, if user selects entry-level jobs but it is showing upto 1-2 experience required jobs
+
+III. Low/P3
+
+  1. Spelling mistake on login page 
+ *2. Alignment issues in a cart page
+  3. Extra spaces are displayed between words in a message
+ *4. Font size is altered when pdf is opened in word / in doc file
+ *5. Button color mismatch with a requirement specification
+ *6. In terms and conditions page, the terms and conditions line is not bordered/ not highlighted
+
+==========================================================================
+Combinations
+------------------------------
+I. High Severity and high priority
+
+  1. User cannot log in to the application.
+ *2. Payment fails for every transaction(Gobi).
+  3. Application crashes during checkout.
+  4. Money is deducted, but the order is not created.
+  5. Users cannot submit the registration form.
+  6. Banking users cannot transfer money.
+
+
+II. High severity and low priority
+
+  1. The application crashes only when using a rarely used admin report.
+  2. Export to XML crashes, but very few customers use XML export.
+  3. A crash occurs in a feature planned for the next release and currently disabled for customers.
+  4. A legacy browser used by very few users causes the application to crash.
+  5. The application crashes only when a rare combination of filters is selected.
+  6. Backup restoration fails in a disaster recovery feature that is rarely used.
+
+
+III. Low severity and high priority
+
+  1. Company name is misspelled on the home page.
+  2. Buy Now button text is displayed as "By Now".
+  3. The company logo is missing from the landing page before a product launch.
+  4. Incorrect pricing symbol ₹ instead of $ is shown on the home page for a regional launch.
+  5. Promotional banner displays the wrong festival offer on the home page.
+  6. Privacy Policy link opens the wrong page during an external compliance audit.
+
+
+IV. Low severity and low priority
+
+  1. Button alignment is slightly incorrect in Accenture careers page.
+  2. Font size is inconsistent on one page.
+  3. Extra spaces are displayed in a message.
+  4. Tooltip appears slightly outside the button in flipkart application.
+  5. Text color does not match the requirement specification.
+  6. Footer copyright year is not updated in Naukri.
 
 
 
